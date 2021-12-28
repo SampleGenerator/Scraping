@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w7rLHeDpn5+Ro1MfmCsyzfN6GY0wIlhB38EkUqWLIANOMmO9Y++hLB5dHeonFi2GmrW+BuUFGbBQ7OeG2KOzg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Test\\Scraping\\Scraping\\Scraping.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\f.goodarzi\\.nuget\\packages\\csvhelper\\27.2.0\\csvhelper.27.2.0.nupkg.sha512",
+    "D:\\Users\\f.goodarzi\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}
